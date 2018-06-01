@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Map Route Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="source">Enter Source Location</string>
+    <string name="desti">Enter Destination Location</string>
+    <string name="search">Search</string>
+</resources>
